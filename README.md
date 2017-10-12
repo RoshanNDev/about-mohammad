@@ -32,4 +32,5 @@ Favorite Food:
 * Shish kebab
 * Donuts
 * Ice cream
+*   Vanilla flavor
 
