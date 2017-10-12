@@ -2,7 +2,7 @@
 
 ### Student
 
-HSTAT
+#### HSTAT
 
 [My Website](https://sites.google.com/a/hstat.org/mohammadn4813sep11/)
 
@@ -14,18 +14,11 @@ My favorite movie is _Scarface_ I have watched atleast 7 times.
 
 Schedule:
 
-Spanish 5
-
-Algebra 2 
-
-English 
-
-Lunch 
-
-Gym 
-
-Earth Science 
-
-SEP
-
-US History 
+1. Spanish 5
+2. Algebra 2 
+3. English 
+4. Lunch 
+5. Gym 
+6. Earth Science 
+7. SEP
+8. US History 
